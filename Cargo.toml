@@ -1,0 +1,2 @@
+[workspace]
+members = ["do-sys-open", "do-sys-open-common", "xtask"]
